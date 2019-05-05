@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AgungPermanaPutra</string>
+    <string name="title_activity_coba">coba</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="home">Home</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="gallery">Gallery</string>
+    <string name="musikVideo">Musik Video</string>
+    <string name="profile">Profile</string>
+    <string name="deskripsi">"Helo my name is Agung Permana Putra, you can call me Bogang. I was born at Bandung 2 March 1998. I am working at Jabarmaya"</string>
+
+    <string name="nama">Agung Permana Putra</string>
+    <string name="status">Student at UNIKOM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
